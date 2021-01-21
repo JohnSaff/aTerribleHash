@@ -56,4 +56,4 @@ console.log(terribleHash('b'))
 console.log(terribleHash('c'))
 // outputs 1680aa6069d2b
 console.log(terribleHash('this is a hash function. hopefully nobody uses it for anything serious'))
-//outputs fbec21358d313
+// outputs fbec21358d313
